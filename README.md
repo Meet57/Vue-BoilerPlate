@@ -1,24 +1,5 @@
-# gui
+# Vue 2
+## BoilerPlate with ant-design, tailwind, vueX, vue-router, PWA
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ant-design : https://1x.antdv.com/
+tailwind css : https://tailwindcss.com/
